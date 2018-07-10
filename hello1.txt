@@ -1,6 +1,2 @@
 Hello!
-<<<<<<< HEAD
-I am a student.
-=======
-I will eat an apple tomorrow.!
->>>>>>> 3956263f3dc4ab317c0cdfccc029c21dcb8968d3
+I will eat an apple tomorrow.
